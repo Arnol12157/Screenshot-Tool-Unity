@@ -55,3 +55,6 @@ or
 - Use the `Filter by Name` text field to search for screenshots.
 - Sort screenshots by name or date using the dropdown.
   ![image](https://github.com/Arnol12157/TGUtils.ScreenshotTool/assets/13397644/1934109a-a610-45f6-b4ba-93ba098ce8f7)
+
+## Contact
+[My personal website](https://arnol12157.github.io/)
