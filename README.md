@@ -2,6 +2,8 @@
 
 The Screenshot Tool is a Unity Editor extension for capturing, organizing, and annotating screenshots directly within the Unity Editor. It provides a user-friendly interface to take screenshots of your game, manage captured images, and add annotations or comments for better organization.
 
+https://github.com/Arnol12157/Screenshot-Tool-Unity/assets/13397644/38a9e57a-40d8-4e61-937e-8224c041db43
+
 ## Features
 
 ### Basic Features
